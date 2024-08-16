@@ -154,10 +154,8 @@ Each stack trace was saved in a .txt file. For instance:
 zsh
 Copy code
 ./php_fuzz inputs/crashes/id%3A000050 &> 50.txt
-Disclaimer
-As stated by OpenAI, ChatGPT may make mistakes. It's advisable to verify important information and consider second opinions. This tool is designed for educational purposes, and its effectiveness may vary.
 
-Feel free to regenerate analysis results by typing readCrashes when prompted for further responses.
+
 
 
 
